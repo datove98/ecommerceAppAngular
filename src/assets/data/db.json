@@ -1,0 +1,22 @@
+{
+  "product": [
+    {"id": 1,
+    "name": "shirt",
+    "category_id": 5,
+    "descriptions": "description here",
+    "price": 300,
+    "is_available": true,
+    "rating": 4,
+    "review": 150,
+    "vendor_name": "abc_shop",
+    "waranty": 1
+    }
+  ],
+  "comments": [
+    {"id":1, "body": "some content", "postId":1},
+    {"id":2, "body": "some content", "postId":1}
+  ],
+  "profile": {
+    "name": "typecode"
+  }
+}
